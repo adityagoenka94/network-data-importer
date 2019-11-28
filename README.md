@@ -4,9 +4,9 @@ The project also have an api to export the Neo4j data into an exel sheet.
 <br>
 
 # Pre-requisites
-* Java 8 or above
-* Maven
-* Neo4j Database
+* Java 8 or above : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+* Maven : https://maven.apache.org/install.html
+* Neo4j Database Server : https://neo4j.com/download/
 <br>
 
 # Setup
