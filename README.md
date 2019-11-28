@@ -18,6 +18,7 @@ The project also have an api to export the Neo4j data into an exel sheet.
 * Run command 'mvn clean compile'.
 * Go to 'data-services' by typing 'cd data-services'.
 * Run command 'mvn play2:run'
+* The server has started at port 9000.
 <br>
 
 # Api Documentation
